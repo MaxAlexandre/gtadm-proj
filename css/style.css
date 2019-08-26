@@ -1,0 +1,50 @@
+.imagem-carrossel{
+    object-fit: cover;
+    /*object-position: 0 5% ;*/
+    height: 500px;
+}
+.imagem-carrossel2{
+    object-fit: cover;
+    object-position: 0 50% ;
+    height: 500px;
+}
+.imagem-carrossel3{
+    object-fit: cover;
+    object-position: 50% 50% ;
+    height: 500px;
+}
+
+.titulo-carrossel{
+    font-family: 'Viga', sans-serif;
+    /*color: blue;*/
+}
+
+.cab-textos{
+    color: black;
+}
+
+.borda-card{
+    border: none;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    height: 210px;
+}
+
+.card-largura{
+    max-width: 14rem;
+
+}
+
+.imagem-sobre{
+    object-fit: cover;
+    height: 150px;
+    max-width: 14rem;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
