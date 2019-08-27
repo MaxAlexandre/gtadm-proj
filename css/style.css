@@ -29,11 +29,11 @@
 
 .card-posicao-imagem{
     object-fit: cover;
-    height: 210px;
+
 }
 
 .card-largura{
-    max-width: 14rem;
+    max-width: 20rem;
 
 }
 
