@@ -16,7 +16,13 @@
 
 .titulo-carrossel{
     font-family: 'Viga', sans-serif;
-    /*color: blue;*/
+    color: black;
+}
+
+.titulo-carrossel2{
+    font-family: 'Viga', sans-serif;
+    color: black;
+    background-color: rgba(255,255,255,0.5);
 }
 
 .cab-textos{
@@ -46,5 +52,10 @@
 html{
     scroll-behavior: smooth;
 }
+
+.tamanho-fonte{
+    font-size: larger;
+}
+
 
 
